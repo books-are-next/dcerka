@@ -6,7 +6,8 @@
       "author": "Jan Hus",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T13:09:08.595Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "subtitle": "O poznání cesty pravé k spasení"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -32,37 +33,45 @@
         "filename": "dcerka_001.md",
         "xhtml": "dcerka_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_002.md",
         "xhtml": "dcerka_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_003.md",
         "xhtml": "dcerka_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_004.md",
         "xhtml": "dcerka_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_005.md",
@@ -71,7 +80,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_006.md",
@@ -80,7 +91,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola první",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_007.md",
@@ -89,7 +102,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola druhá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_008.md",
@@ -98,7 +113,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola třetí",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_009.md",
@@ -107,7 +124,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola čtvrtá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_010.md",
@@ -116,7 +135,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola pátá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_011.md",
@@ -125,7 +146,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola šestá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_012.md",
@@ -134,7 +157,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola sedmá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_013.md",
@@ -143,7 +168,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola osmá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_014.md",
@@ -152,7 +179,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola devátá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_015.md",
@@ -161,16 +190,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kapitola desátá",
+        "subtitle": ""
       },
       {
         "filename": "dcerka_016.md",
         "xhtml": "dcerka_016.xhtml",
         "id": 15,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -180,7 +213,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Hus",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-21T13:19:29.247Z"
+      "modified": "2021-09-21T13:23:34.306Z"
     },
     "chapters": [
       {
@@ -350,6 +383,6 @@
       "user": "books-are-next",
       "repo": "dcerka"
     },
-    "generatedAt": 1632230369550
+    "generatedAt": 1632230614602
   }
 }
