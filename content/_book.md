@@ -25,6 +25,8 @@ chapters:
   - dcerka_014.html
   - dcerka_015.html
 tocBase:
+  - link: dcerka_005.html
+    title: Slyš, dcerko, a viz
   - link: dcerka_006.html
     title: Kapitola první
   - link: dcerka_007.html
