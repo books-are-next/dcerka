@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dcerka</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jan Hus</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Kapitola první</text>
+      </navLabel>
+      <content src="Text/dcerka_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Kapitola druhá</text>
+      </navLabel>
+      <content src="Text/dcerka_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Kapitola třetí</text>
+      </navLabel>
+      <content src="Text/dcerka_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Kapitola čtvrtá</text>
+      </navLabel>
+      <content src="Text/dcerka_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Kapitola pátá</text>
+      </navLabel>
+      <content src="Text/dcerka_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Kapitola šestá</text>
+      </navLabel>
+      <content src="Text/dcerka_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Kapitola sedmá</text>
+      </navLabel>
+      <content src="Text/dcerka_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Kapitola osmá</text>
+      </navLabel>
+      <content src="Text/dcerka_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Kapitola devátá</text>
+      </navLabel>
+      <content src="Text/dcerka_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Kapitola desátá</text>
+      </navLabel>
+      <content src="Text/dcerka_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,388 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Dcerka",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Hus",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-21T13:09:08.595Z",
+      "languageCode": "cs",
+      "subtitle": "O poznání cesty pravé k spasení"
+    },
+    "elements": {
+      "title": "MLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP_text_-0-12-\nMLP_text_bez1radku_-0-12-",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP_znak_kurziva_11b",
+      "strong": "MLP_text_uprostred_-B-\nMLP_tiraz_autor_a_nazev\n",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "dcerka_001.md",
+        "xhtml": "dcerka_001.xhtml",
+        "id": 0,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_002.md",
+        "xhtml": "dcerka_002.xhtml",
+        "id": 1,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_003.md",
+        "xhtml": "dcerka_003.xhtml",
+        "id": 2,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_004.md",
+        "xhtml": "dcerka_004.xhtml",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_005.md",
+        "xhtml": "dcerka_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_006.md",
+        "xhtml": "dcerka_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola první",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_007.md",
+        "xhtml": "dcerka_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola druhá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_008.md",
+        "xhtml": "dcerka_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola třetí",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_009.md",
+        "xhtml": "dcerka_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola čtvrtá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_010.md",
+        "xhtml": "dcerka_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola pátá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_011.md",
+        "xhtml": "dcerka_011.xhtml",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola šestá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_012.md",
+        "xhtml": "dcerka_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola sedmá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_013.md",
+        "xhtml": "dcerka_013.xhtml",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola osmá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_014.md",
+        "xhtml": "dcerka_014.xhtml",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola devátá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_015.md",
+        "xhtml": "dcerka_015.xhtml",
+        "id": 14,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Kapitola desátá",
+        "subtitle": ""
+      },
+      {
+        "filename": "dcerka_016.md",
+        "xhtml": "dcerka_016.xhtml",
+        "id": 15,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Dcerka",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Hus",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-22T07:51:47.820Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_001.md",
+        "xhtml": "dcerka_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_002.md",
+        "xhtml": "dcerka_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_003.md",
+        "xhtml": "dcerka_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_004.md",
+        "xhtml": "dcerka_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_005.md",
+        "xhtml": "dcerka_005.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola první",
+        "subtitleSuggest": "",
+        "filename": "dcerka_006.md",
+        "xhtml": "dcerka_006.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola druhá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_007.md",
+        "xhtml": "dcerka_007.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola třetí",
+        "subtitleSuggest": "",
+        "filename": "dcerka_008.md",
+        "xhtml": "dcerka_008.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola čtvrtá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_009.md",
+        "xhtml": "dcerka_009.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola pátá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_010.md",
+        "xhtml": "dcerka_010.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola šestá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_011.md",
+        "xhtml": "dcerka_011.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola sedmá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_012.md",
+        "xhtml": "dcerka_012.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola osmá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_013.md",
+        "xhtml": "dcerka_013.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola devátá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_014.md",
+        "xhtml": "dcerka_014.xhtml"
+      },
+      {
+        "titleSuggest": "Kapitola desátá",
+        "subtitleSuggest": "",
+        "filename": "dcerka_015.md",
+        "xhtml": "dcerka_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dcerka_016.md",
+        "xhtml": "dcerka_016.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_dcerka2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred_-B-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "dcerka"
+    },
+    "generatedAt": 1632297108080
+  }
+}
