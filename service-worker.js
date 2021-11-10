@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-ca1ca38';
+const CACHE = 'cache-cea44e1';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./dcerka_001.html","./dcerka_002.html","./dcerka_005.html","./dcerka_006.html","./dcerka_007.html","./dcerka_008.html","./dcerka_009.html","./dcerka_010.html","./dcerka_011.html","./dcerka_012.html","./dcerka_013.html","./dcerka_014.html","./dcerka_015.html","./favicon.png","./index.html","./manifest.json","./resources.html","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/index.xml","./resources/obalka_dcerka2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./dcerka_001.html","./dcerka_002.html","./dcerka_006.html","./dcerka_005.html","./dcerka_007.html","./dcerka_009.html","./dcerka_010.html","./dcerka_008.html","./dcerka_012.html","./dcerka_011.html","./dcerka_013.html","./dcerka_014.html","./dcerka_015.html","./favicon.png","./manifest.json","./index.html","./resources.html","./scripts/bundle.js","./style/style.min.css","./resources/image003.jpg","./resources/image004.jpg","./resources/image001.jpg","./resources/obalka_dcerka2.jpg","./resources/index.xml","./resources/upoutavka_eknihy.jpg"]));
 }
 
 self.addEventListener('fetch', e => {
