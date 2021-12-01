@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Dcerka",
@@ -7,7 +8,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T13:09:08.595Z",
       "languageCode": "cs",
-      "subtitle": "O poznání cesty pravé k spasení"
+      "subtitle": "O poznání cesty pravé k spasení",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -33,7 +36,7 @@
         "filename": "dcerka_001.md",
         "xhtml": "dcerka_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -386,3 +389,4 @@
     "generatedAt": 1632297108080
   }
 }
+
