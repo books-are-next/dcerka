@@ -10,8 +10,9 @@ meta:
   modified: '2021-09-21T13:09:08.595Z'
   languageCode: cs
   subtitle: O poznání cesty pravé k spasení
-chapters:
-  - dcerka_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - dcerka_002.html
   - dcerka_005.html
   - dcerka_006.html
@@ -24,6 +25,7 @@ chapters:
   - dcerka_013.html
   - dcerka_014.html
   - dcerka_015.html
+  - colophon.html
 tocBase:
   - link: dcerka_005.html
     title: Slyš, dcerko, a viz
@@ -53,5 +55,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

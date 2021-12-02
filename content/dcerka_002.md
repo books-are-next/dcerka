@@ -2,4 +2,4 @@
 title: ''
 ---
 
-![](./resources/upoutavka_eknihy.jpg)
+![](../Images/upoutavka_eknihy.jpg)
