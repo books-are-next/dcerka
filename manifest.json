@@ -1,104 +1,67 @@
 {
   "author": "Jan Hus",
-  "identifier": "hus-dcerka-9089619",
+  "edition": "beletrie",
+  "identifier": "hus-dcerka-a4f9fd7",
   "languagecode": "cs",
   "modified": "2021-09-21T13:09:08.595Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "subtitle": "O poznání cesty pravé k spasení",
   "title": "Dcerka",
-  "revision": "9089619",
+  "revision": "a4f9fd7",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:27:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379634300
+    "date": "Thu Dec 02 2021 07:43:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638431011347
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 138,
-      "chars": 867,
-      "ideas": 23,
-      "role": "colophon",
-      "order": null,
-      "next": "dcerka_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "dcerka_001.html",
+      "title": "Dcerka",
+      "file": "dcerka_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "dcerka_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "dcerka_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "dcerka_001.html",
       "next": "dcerka_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Dcerka",
       "file": "dcerka_005.html",
       "words": 164,
       "chars": 1005,
       "ideas": 2,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "dcerka_002.html",
       "next": "dcerka_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola první",
+      "title": "Kapitola první • Dcerka",
       "file": "dcerka_006.html",
       "words": 1045,
       "chars": 5753,
       "ideas": 6,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "dcerka_005.html",
       "next": "dcerka_007.html",
       "toc": [
@@ -106,19 +69,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola první",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola druhá",
+      "title": "Kapitola druhá • Dcerka",
       "file": "dcerka_007.html",
       "words": 784,
       "chars": 4436,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "dcerka_006.html",
       "next": "dcerka_008.html",
       "toc": [
@@ -126,19 +89,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola druhá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola třetí",
+      "title": "Kapitola třetí • Dcerka",
       "file": "dcerka_008.html",
       "words": 920,
       "chars": 5213,
       "ideas": 4,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "dcerka_007.html",
       "next": "dcerka_009.html",
       "toc": [
@@ -146,19 +109,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola třetí",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola čtvrtá",
+      "title": "Kapitola čtvrtá • Dcerka",
       "file": "dcerka_009.html",
       "words": 2428,
       "chars": 13819,
       "ideas": 22,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "dcerka_008.html",
       "next": "dcerka_010.html",
       "toc": [
@@ -166,19 +129,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola čtvrtá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola pátá",
+      "title": "Kapitola pátá • Dcerka",
       "file": "dcerka_010.html",
       "words": 710,
       "chars": 3937,
       "ideas": 7,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "dcerka_009.html",
       "next": "dcerka_011.html",
       "toc": [
@@ -186,19 +149,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola pátá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola šestá",
+      "title": "Kapitola šestá • Dcerka",
       "file": "dcerka_011.html",
       "words": 923,
       "chars": 5532,
       "ideas": 6,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "dcerka_010.html",
       "next": "dcerka_012.html",
       "toc": [
@@ -206,19 +169,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola šestá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola sedmá",
+      "title": "Kapitola sedmá • Dcerka",
       "file": "dcerka_012.html",
       "words": 477,
       "chars": 2673,
       "ideas": 6,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "dcerka_011.html",
       "next": "dcerka_013.html",
       "toc": [
@@ -226,19 +189,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola sedmá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola osmá",
+      "title": "Kapitola osmá • Dcerka",
       "file": "dcerka_013.html",
       "words": 2,
       "chars": 13,
       "ideas": 1,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "dcerka_012.html",
       "next": "dcerka_014.html",
       "toc": [
@@ -246,19 +209,19 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola osmá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola devátá",
+      "title": "Kapitola devátá • Dcerka",
       "file": "dcerka_014.html",
       "words": 1199,
       "chars": 6906,
       "ideas": 6,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "dcerka_013.html",
       "next": "dcerka_015.html",
       "toc": [
@@ -266,59 +229,57 @@
           "index": 0,
           "level": 1,
           "name": "Kapitola devátá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola desátá",
+      "title": "Kapitola desátá • Dcerka",
       "file": "dcerka_015.html",
       "words": 903,
       "chars": 5099,
       "ideas": 7,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "dcerka_014.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola desátá",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
+      "title": "Tiráž • Dcerka",
+      "file": "colophon.html",
+      "words": 138,
+      "chars": 867,
+      "ideas": 23,
+      "role": "colophon",
       "order": null,
-      "next": "dcerka_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "dcerka_001.html",
-      "toc": []
+      "prev": "dcerka_015.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 9693,
-      "chars": 55253,
-      "ideas": 96
+      "words": 9698,
+      "chars": 55277,
+      "ideas": 100
     },
     "chapters": {
       "words": 9555,
