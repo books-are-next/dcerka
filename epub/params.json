@@ -47,7 +47,7 @@
         "filename": "dcerka_002.md",
         "xhtml": "dcerka_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -389,4 +389,3 @@
     "generatedAt": 1632297108080
   }
 }
-
