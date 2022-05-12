@@ -1,5 +1,6 @@
 ---
 title: Kapitola desátá
+contentType: prose
 ---
 
 Slyš, dcerko, a viz, a přichyl ucho své, že jsem řekl desáté: _abys Pána Boha nade všecky jiné věci milovala_; neb když to naplníš, tehdy všecky dříve psané řeči lehce zachováš. Slyš a přichyl ucho své, že Boha milovati jest, dobře dobré Bohu chtíti. A ten dobře dobré Bohu chce, kdož nejsa v hříchu smrtelném, chce vše, což Bůh chce, a tak srovnává se s ním ve vůli. A že Bůh volí (= chce) vše dobré, protož, kdož Boha miluje, ten volí a tak i miluje vše dobré. A čím co jest lepší, tím více má to milovati; a že Bůh jest nejlepší dobré, protož Boha má člověk nejvíce milovati. A cožkoli nejvíce miluje, v tom největší libost má, k tomu nejvíce tíhne a nejvíce ho žádá. Protož důvod má člověk, že Boha nejvíce miluje, když o něm nejvíce myslí a žádá, aby co nejspíše s ním byl, a vší snažností stojí o to, aby jeho přikázání plnil, neb tak pozná, že Boha miluje, když jeho přikázání naplnil. Neb dí Kristus: Zachováte-li přikázání má, ostanete v milování mém, jakož i já přikázání Otce svého zachoval jsem a přebývám v jeho milování.

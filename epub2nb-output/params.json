@@ -46,7 +46,7 @@
         "filename": "dcerka_002.md",
         "xhtml": "dcerka_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -215,7 +215,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Hus",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T07:42:39.867Z"
+      "modified": "2021-03-04T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -385,6 +385,6 @@
       "user": "books-are-next",
       "repo": "dcerka"
     },
-    "generatedAt": 1638430960169
+    "generatedAt": 1652351351627
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Kapitola devátá
+contentType: prose
 ---
 
 Slyš, dcerko! a viz, a přichyl ucho své. Tehdy, dcerko, krále věčného slyš, a myslí nábožnou přichyl ucho své k myšlení o radosti své, a viz rozumem, kterak utěšené jest _království nebeské_; protož slyš a viz, a tak važ _život věčný_. Vyprázdni rozum od marných myšlení a vůli od marných žádostí, a tak pozdvihni rozumu i žádosti, a vejdi v radost Pána svého, již oko tělesné nevidělo zde ve světě dokonale, ani ucho neslýchalo, ani na srdce člověka ta radost dokonale v životě smrtelném nevstoupila, již Bůh připravil milovníkům svým, jakož dí sv. Pavel,[12](./resources/undefined) jenž byl něco, jsa v třetím nebi, spatřil. Slyš Pána Ježíše Spasitele, jenž dí: „Tento jest život věčný, aby poznali tebe samého pravého Boha, a jehož’s poslal, Ježíše Krista.“[13](./resources/undefined)

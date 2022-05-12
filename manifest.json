@@ -1,22 +1,39 @@
 {
-  "author": "Jan Hus",
-  "edition": "beletrie",
-  "identifier": "hus-dcerka-a4f9fd7",
-  "languagecode": "cs",
-  "modified": "2021-09-21T13:09:08.595Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
-  "subtitle": "O poznání cesty pravé k spasení",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Dcerka",
-  "revision": "a4f9fd7",
+  "subtitle": "O poznání cesty pravé k spasení",
+  "author": "Jan Hus",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hus-dcerka-1bc648f",
+  "revision": "1bc648f",
+  "readingOrder": [
+    "promo.html",
+    "dcerka_005.html",
+    "dcerka_006.html",
+    "dcerka_007.html",
+    "dcerka_008.html",
+    "dcerka_009.html",
+    "dcerka_010.html",
+    "dcerka_011.html",
+    "dcerka_012.html",
+    "dcerka_013.html",
+    "dcerka_014.html",
+    "dcerka_015.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 07:43:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638431011347
+    "date": "Thu May 12 2022 10:36:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351803234
   },
   "documents": [
     {
-      "title": "Dcerka",
-      "file": "dcerka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +41,7 @@
       "order": 0,
       "prev": null,
       "next": "dcerka_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Dcerka",
@@ -42,7 +51,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "dcerka_002.html",
+      "prev": "promo.html",
       "next": "dcerka_006.html",
       "toc": [
         {
@@ -55,7 +64,7 @@
       ]
     },
     {
-      "title": "Kapitola první • Dcerka",
+      "title": "Kapitola první",
       "file": "dcerka_006.html",
       "words": 1045,
       "chars": 5753,
@@ -75,7 +84,7 @@
       ]
     },
     {
-      "title": "Kapitola druhá • Dcerka",
+      "title": "Kapitola druhá",
       "file": "dcerka_007.html",
       "words": 784,
       "chars": 4436,
@@ -95,7 +104,7 @@
       ]
     },
     {
-      "title": "Kapitola třetí • Dcerka",
+      "title": "Kapitola třetí",
       "file": "dcerka_008.html",
       "words": 920,
       "chars": 5213,
@@ -115,7 +124,7 @@
       ]
     },
     {
-      "title": "Kapitola čtvrtá • Dcerka",
+      "title": "Kapitola čtvrtá",
       "file": "dcerka_009.html",
       "words": 2428,
       "chars": 13819,
@@ -135,7 +144,7 @@
       ]
     },
     {
-      "title": "Kapitola pátá • Dcerka",
+      "title": "Kapitola pátá",
       "file": "dcerka_010.html",
       "words": 710,
       "chars": 3937,
@@ -155,7 +164,7 @@
       ]
     },
     {
-      "title": "Kapitola šestá • Dcerka",
+      "title": "Kapitola šestá",
       "file": "dcerka_011.html",
       "words": 923,
       "chars": 5532,
@@ -175,7 +184,7 @@
       ]
     },
     {
-      "title": "Kapitola sedmá • Dcerka",
+      "title": "Kapitola sedmá",
       "file": "dcerka_012.html",
       "words": 477,
       "chars": 2673,
@@ -195,7 +204,7 @@
       ]
     },
     {
-      "title": "Kapitola osmá • Dcerka",
+      "title": "Kapitola osmá",
       "file": "dcerka_013.html",
       "words": 2,
       "chars": 13,
@@ -215,7 +224,7 @@
       ]
     },
     {
-      "title": "Kapitola devátá • Dcerka",
+      "title": "Kapitola devátá",
       "file": "dcerka_014.html",
       "words": 1199,
       "chars": 6906,
@@ -235,7 +244,7 @@
       ]
     },
     {
-      "title": "Kapitola desátá • Dcerka",
+      "title": "Kapitola desátá",
       "file": "dcerka_015.html",
       "words": 903,
       "chars": 5099,
@@ -255,11 +264,11 @@
       ]
     },
     {
-      "title": "Tiráž • Dcerka",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 867,
-      "ideas": 23,
+      "words": 116,
+      "chars": 712,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "dcerka_015.html",
@@ -277,9 +286,9 @@
   ],
   "totals": {
     "all": {
-      "words": 9698,
-      "chars": 55277,
-      "ideas": 100
+      "words": 9676,
+      "chars": 55122,
+      "ideas": 94
     },
     "chapters": {
       "words": 9555,

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Slyš, dcerko, a viz, a přichyl ucho své: slyš uchem, viz rozumem a přichyl vůlí ucho své pilně, abys slyšíc rozuměla, rozumějíc, toho, co bude psáno, pilna byla, a jsouc pilna, abys naplnila, naplníc odplatu věčnou vzala a s chotěm svým Ježíšem, pravým Bohem a pravým člověkem, přebývala, jenž panenství zvelebil nad jiné stavy, ráčiv se z čisté panny naroditi a panicem býti, aby nám i panenství i panictví potvrdil a nad jiné zvelebil a povýšil.

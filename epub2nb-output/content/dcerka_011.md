@@ -1,5 +1,6 @@
 ---
 title: Kapitola šestá
+contentType: prose
 ---
 
 Slyš, dcerko! a viz, a přichyl ucho své. Slyš, že se máš _káti_, a viz, z čeho se máš káti; a přichyl ucho své vnitřní a slyš tělesným také, že právě se káti jest, minulých hříchů želeti, a již míti vůli jiných se nedopouštěti. A tak pravý kající jest ten, kterýž tak želí minulých hříchů, že se jiných úmyslně nedopustí, takže nižádného hříchu neoblibuje, ač bez všedního nemůže v tomto bídném životě býti.

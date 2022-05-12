@@ -1,5 +1,6 @@
 ---
 title: Kapitola čtvrtá
+contentType: prose
 ---
 
 Slyš, dcerko, a viz, a přichyl ucho své, a poznej _zdejšího světa pokušení_.
