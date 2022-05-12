@@ -1,5 +1,6 @@
 ---
 title: Kapitola pátá
+contentType: prose
 ---
 
 Slyš, dcerko! a viz, a přichyl ucho své a poznej _tři nepřátele_ každého člověka ve světě, již chtí jeho duši poraziti. Tiť jsou: _tělo_, _svět_ a _ďábel_, pro něž každý člověk, ve smrtelném jsa zde životě, má k Bohu volati: Pomoz mi, Pane Bože můj! neb nepřátelé obklíčili duši mou; tělo mé z bláta jest, protož blatná, nečistá a rozkošná myšlení od něho mám, a marná a divná od světa, a lstivá a zlostná od ďábla. Aj ti tři nepřátelé, tělo, svět a ďábel, obklíčili duši mou.

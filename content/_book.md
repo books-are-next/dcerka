@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Dcerka
@@ -13,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - dcerka_002.html
+  - promo.html
   - dcerka_005.html
   - dcerka_006.html
   - dcerka_007.html

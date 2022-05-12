@@ -1,5 +1,6 @@
 ---
 title: Kapitola druhá
+contentType: prose
 ---
 
 Slyš, dcerko, a viz, a přichyl ucho své, že hodno jest, abys _poznala své svědomí_. Věz, že nemůžeš hříchů konečně skrýti, neb musíš je všem lidem, andělům i ďáblům v soudný den oznámiti. Tu viz, a přichyl uši své, že kam se obrátíš, cos v duši, v svém svědomí položila, buď zlé neb dobré, svědomí chová tobě, dokud jsi živa, a vrátí tobě, když budeš mrtva. Neb ta jest každé duši položena úmluva, aby slib svůj Bohu držela; činí-li zle, ihned přirazí se svědomí; pakli činí dobře a v tom nezpychne duše, nekárá pravé svědomí; ale když zle činí člověk, svědomí jest při živém, a vleče se po mrtvém. A tak, kam se člověk obrátí, vždy buď chvála nebo pohanění za ním jde. A tak člověk v domu svém, totiž v duši své čeledi má protivníky: aj, žaluje na něho svědomí, svědčí paměť, soudí ho rozum, rozkoš ukazuje, kterak má mučen býti, bázeň neb strach jest kat a rozkoši jsou mučení; neb kolik měl člověk zlých, a kterak velikých zlých rozkoší, tolik a tak velikých má míti utrpení, jakož dí Písmo.

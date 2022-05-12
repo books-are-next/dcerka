@@ -1,5 +1,6 @@
 ---
 title: Kapitola první
+contentType: prose
 ---
 
 Slyš, dcerko, a viz, a přichyl ucho své, že jsem řekl nejprvé, abys sebe poznala, vědouc, _ke komu jsi podobná stvořena_.
