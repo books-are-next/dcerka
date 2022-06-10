@@ -3,6 +3,8 @@ title: Kapitola desátá
 contentType: prose
 ---
 
+<section>
+
 Slyš, dcerko, a viz, a přichyl ucho své, že jsem řekl desáté: _abys Pána Boha nade všecky jiné věci milovala_; neb když to naplníš, tehdy všecky dříve psané řeči lehce zachováš. Slyš a přichyl ucho své, že Boha milovati jest, dobře dobré Bohu chtíti. A ten dobře dobré Bohu chce, kdož nejsa v hříchu smrtelném, chce vše, což Bůh chce, a tak srovnává se s ním ve vůli. A že Bůh volí (= chce) vše dobré, protož, kdož Boha miluje, ten volí a tak i miluje vše dobré. A čím co jest lepší, tím více má to milovati; a že Bůh jest nejlepší dobré, protož Boha má člověk nejvíce milovati. A cožkoli nejvíce miluje, v tom největší libost má, k tomu nejvíce tíhne a nejvíce ho žádá. Protož důvod má člověk, že Boha nejvíce miluje, když o něm nejvíce myslí a žádá, aby co nejspíše s ním byl, a vší snažností stojí o to, aby jeho přikázání plnil, neb tak pozná, že Boha miluje, když jeho přikázání naplnil. Neb dí Kristus: Zachováte-li přikázání má, ostanete v milování mém, jakož i já přikázání Otce svého zachoval jsem a přebývám v jeho milování.
 
 Ale snad díš: Kterak mohu znáti, držím-li jeho přikázání? Tu dím, že když člověk položí pevně v srdci svém, že by raději umřel, než by přikázání Boží přestoupil, a tak stojí v úmyslu, tehdy má veliké znamení, že jeho přikázání plní, a že jeho miluje více, než své tělo, jež hotově poddal by na smrt, než by Boha rozhněval. Neb již člověk nemá většího milování k někomu, jediné že života pro něho hotov jest na smrt nasaditi, a to dí Kristus; aniž může míti člověk většího znamení, že Boha miluje, kromě zjevení Božího.
@@ -13,6 +15,10 @@ A tak sbera člověk rozum svůj, že Bůh jest nejlepší dobré, že jest Ote
 
 To slyš, dcerko, a viz, a přichyl ucho své; slyš uchem, viz rozumem, přichyl pilností, abys rozuměla, pamatovala a naplnila. Neb co by bylo platno toto, co jest psáno, bude-li od tebe čteno, rozuměno, a nebylo-li by naplněno? Protož přilož pilnost, abys četla, rozuměla, sebe poznala a Boha milovala, abys bojovala, svět, tělo a ďábla přemohla a aby práce tvá obrátila se v odpočinutí, lkání v radost, a abys po temnostech světa tohoto viděla Slunce spravedlnosti, Ježíše Krista, s jeho matkou i se všemi svatými, a jsouc oslavena, s nimi se radovala. Toho tobě rač dopomoci mocný Bůh Otec, moudrý Syn Boží, milostivý Duch svatý, jeden Bůh všemohoucí na věky požehnaný!
 
-  
+</section>
+
+<section>
 
 **Amen.**
+
+</section>

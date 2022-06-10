@@ -3,6 +3,8 @@ title: Kapitola druhá
 contentType: prose
 ---
 
+<section>
+
 Slyš, dcerko, a viz, a přichyl ucho své, že hodno jest, abys _poznala své svědomí_. Věz, že nemůžeš hříchů konečně skrýti, neb musíš je všem lidem, andělům i ďáblům v soudný den oznámiti. Tu viz, a přichyl uši své, že kam se obrátíš, cos v duši, v svém svědomí položila, buď zlé neb dobré, svědomí chová tobě, dokud jsi živa, a vrátí tobě, když budeš mrtva. Neb ta jest každé duši položena úmluva, aby slib svůj Bohu držela; činí-li zle, ihned přirazí se svědomí; pakli činí dobře a v tom nezpychne duše, nekárá pravé svědomí; ale když zle činí člověk, svědomí jest při živém, a vleče se po mrtvém. A tak, kam se člověk obrátí, vždy buď chvála nebo pohanění za ním jde. A tak člověk v domu svém, totiž v duši své čeledi má protivníky: aj, žaluje na něho svědomí, svědčí paměť, soudí ho rozum, rozkoš ukazuje, kterak má mučen býti, bázeň neb strach jest kat a rozkoši jsou mučení; neb kolik měl člověk zlých, a kterak velikých zlých rozkoší, tolik a tak velikých má míti utrpení, jakož dí Písmo.
 
 To slyš, dcerko, a viz, a přichyl ucho své. Slyš také a viz, že svědomí jest sebe poznání, totiž jímž se člověk sám zná, je-li vinen hříchem či není, a umí uvážiti, je-li hřích či není. A bývá blud v svědomí: prvé, když člověk neví, má-li učiniti či nemá; na příklad, když jest člověk nemocen, a velí jemu v postní den jísti mléčné, a on váhá, nevěda, má-li to učiniti, aby nezhřešil, či nemá. Druhé: blud bývá v svědomí z nedbání, jako když kdo nedbá sebe poznati, je-li v hříchu, a pakli dbá, ale nechce jiného se otázati, neuměje sám sebe rozsouditi. Třetí bývá blud z pýchy, když kdo příliš troufaje sobě nad jiné, i neučiní sobě poznání v hříchu svém. Čtvrté, bývá blud nezřízené žádosti, jež člověka odchyluje od dobré věci, které on žádá, a tak činí, že pobloudí. Páté, z přílišné bázně, jako když se kdo bojí toho, čehož se nemá báti podle rozumu; jako činil-li by kdo sobě svědomí, že by chudému dal almužnu před lidmi s dobrým úmyslem.
@@ -14,3 +16,5 @@ Protož, aby člověk zpravil své svědomí i v minulých skutcích, i kter�
 [2](./resources/undefined) Iz. 5,20
 
 [3](./resources/undefined) Mar. 23,24
+
+</section>
