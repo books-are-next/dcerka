@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-1bc648f",
-  "revision": "1bc648f",
+  "identifier": "hus-dcerka-d754073",
+  "revision": "d754073",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351803234
+    "date": "Fri Jun 10 2022 17:48:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883323029
   },
   "documents": [
     {
@@ -206,9 +206,9 @@
     {
       "title": "Kapitola osmá",
       "file": "dcerka_013.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 286,
+      "chars": 1707,
+      "ideas": 2,
       "role": "chapter",
       "order": 9,
       "prev": "dcerka_012.html",
@@ -266,9 +266,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 712,
-      "ideas": 17,
+      "words": 73,
+      "chars": 491,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "dcerka_015.html",
@@ -286,14 +286,14 @@
   ],
   "totals": {
     "all": {
-      "words": 9676,
-      "chars": 55122,
-      "ideas": 94
+      "words": 9917,
+      "chars": 56595,
+      "ideas": 85
     },
     "chapters": {
-      "words": 9555,
-      "chars": 54386,
-      "ideas": 73
+      "words": 9839,
+      "chars": 56080,
+      "ideas": 74
     }
   }
 }

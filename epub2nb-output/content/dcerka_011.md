@@ -3,6 +3,8 @@ title: Kapitola šestá
 contentType: prose
 ---
 
+<section>
+
 Slyš, dcerko! a viz, a přichyl ucho své. Slyš, že se máš _káti_, a viz, z čeho se máš káti; a přichyl ucho své vnitřní a slyš tělesným také, že právě se káti jest, minulých hříchů želeti, a již míti vůli jiných se nedopouštěti. A tak pravý kající jest ten, kterýž tak želí minulých hříchů, že se jiných úmyslně nedopustí, takže nižádného hříchu neoblibuje, ač bez všedního nemůže v tomto bídném životě býti.
 
 Pravý kající drží Boží přikázání, jest v zarmoucení pro hříchy, že se jich dopustil, a jest v utěšení, že se jich kaje a od nich ustal. Pravý kající pracuje o radost nebeskou a nedbá utěšení tohoto světa; ale ten, kdo činí ještě to, čeho se má káti, neb míní učiniti, čehož by se měl káti, ten jest posměvač pokání. Protož ty, chceš-li se právě káti, žel hříchů minulých, měj v mrzkosti všechny hříchy, již více nehřeš; neb dí sv. Augustin: že daremné jest pokání, kteréž potomní poskvrňuje hřešení. Tak rozuměj: že kdyby se tisíckrát kál, a potom vždy hřešil, vždy by pokání tak zrušil, že, nekál-li by se konečně člověk, tak aby želeje již nikoli nechtěl hřešiti, tehdy všechna pokání prvnější k spasení by zmařil. Neb dí Pán Bůh: „Odvrátí-li se spravedlivý od spravedlnosti své, a učiní-li zlost, všechny spravedlnosti, kteréž učinil, nebudou jemu vzpomenuty, ale v hříchu svém umře.“[9](./resources/undefined) Tak dí Bůh. Protož jako konečné pokání samo jest plné a dokonalé, jež člověka, kterakkoli by byl hříšný, spasí, tak konečné nekání, kterakkoli by byl člověk dobrý, toho zatratí.
@@ -14,3 +16,5 @@ Protož ty, jak doufám, žes kající, ostříhej se od hříchu, pilnost přil
 [9](./resources/undefined) Ezech. 18,24
 
 [10](./resources/undefined) Luk. 23,42
+
+</section>

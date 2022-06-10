@@ -3,6 +3,8 @@ title: Kapitola první
 contentType: prose
 ---
 
+<section>
+
 Slyš, dcerko, a viz, a přichyl ucho své, že jsem řekl nejprvé, abys sebe poznala, vědouc, _ke komu jsi podobná stvořena_.
 
 Nebuď jako ti, již mnohé věci umějí, ale sami sebe neznají; na jiné lidi hledí, ale sami sebe nepomní. Ty od sebe počni, abys snad sebe neznajíc, jiné věci daremně nechtěla znáti. Ty poznej sebe; neb čím více sebe poznáš, tím více Boha poznáš; a čím více Boha poznáš, tím více k němu přistoupíš a více milovati budeš; a čím více milovati ho budeš, tím více on tě zase bude milovati.
@@ -14,3 +16,5 @@ Protož ty pomni, že tě Bůh stvořil k sobě podobnou; rozuměj, že on jest
 * * *
 
 [1](./resources/undefined) 3. M. 19,2
+
+</section>

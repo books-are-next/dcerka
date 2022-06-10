@@ -3,6 +3,8 @@ title: Kapitola čtvrtá
 contentType: prose
 ---
 
+<section>
+
 Slyš, dcerko, a viz, a přichyl ucho své, a poznej _zdejšího světa pokušení_.
 
 A věz nejprvé, že jest pokušení jedno, jímž kdo pokouší jiného, a druhé, jímž kdo pokoušen bývá; nebo pokouší Bůh, pokouší člověk a pokouší ďábel. Bůh vždy pokouší dobře, neb když pokouší, tehdy pokouší spravedlivě; člověk někdy pokouší dobře a někdy také zle; ale ďábel vždy zle. Ale když člověk vezme sobě příčinu od kterékoli věci, jež není rozumná, aby zevnitř byl pokoušen, ten sám sebe pokouší, aneb ďábel ho pokouší skrze tu věc, ale ta věc ho nepokouší. Jako Evy jablko, neb které ovoce jedla, to jí nepokoušelo, ale ona sama sebe, a ďábel skrze to ovoce. Neb každá taková věc nerozumná nic jiného nečiní, než což jí Bůh v jejím přirození rozkázal. Dále věz, že Bůh svého syna vyvoleného, neb dcerky své vyvolené pokoušel k zasloužení, jakož Písmo ukazuje (a o tom psal jsem mnoho jinde). Ale ďábel, ten pokouší k zatracení, a člověk někdy ku hříchu. Ale ďáblovo pokušení jest vždy zlé a nejhorší, protož toho se má člověk nejvíce varovati.
@@ -46,3 +48,5 @@ Aj, ďáble, tvoji důvodové za nic nestojí; nemáš-li jiných lepších, jak
 [6](./resources/undefined) I. Kor. 10,13
 
 [7](./resources/undefined) Řím. 5,12
+
+</section>
