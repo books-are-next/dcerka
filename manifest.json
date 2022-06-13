@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-3e40ff3",
-  "revision": "3e40ff3",
+  "identifier": "hus-dcerka-e926bb0",
+  "revision": "e926bb0",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:54:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948462020
+    "date": "Mon Jun 13 2022 21:53:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157208839
   },
   "documents": [
     {
@@ -266,9 +266,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 73,
-      "chars": 491,
-      "ideas": 7,
+      "words": 110,
+      "chars": 676,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "dcerka_015.html",
@@ -286,9 +286,9 @@
   ],
   "totals": {
     "all": {
-      "words": 9917,
-      "chars": 56595,
-      "ideas": 85
+      "words": 9954,
+      "chars": 56780,
+      "ideas": 94
     },
     "chapters": {
       "words": 9839,

@@ -28,28 +28,31 @@ readingOrder:
   - dcerka_015.html
   - colophon.html
 tocBase:
-  - link: dcerka_005.html
-    title: Slyš, dcerko, a viz
-  - link: dcerka_006.html
-    title: Kapitola první
-  - link: dcerka_007.html
-    title: Kapitola druhá
-  - link: dcerka_008.html
-    title: Kapitola třetí
-  - link: dcerka_009.html
-    title: Kapitola čtvrtá
-  - link: dcerka_010.html
-    title: Kapitola pátá
-  - link: dcerka_011.html
-    title: Kapitola šestá
-  - link: dcerka_012.html
-    title: Kapitola sedmá
-  - link: dcerka_013.html
-    title: Kapitola osmá
-  - link: dcerka_014.html
-    title: Kapitola devátá
-  - link: dcerka_015.html
-    title: Kapitola desátá
+  - id: section-1
+    children:
+      - link: dcerka_005.html
+        title: Slyš, dcerko, a viz
+      - link: dcerka_006.html
+        title: Kapitola první
+      - link: dcerka_007.html
+        title: Kapitola druhá
+      - link: dcerka_008.html
+        title: Kapitola třetí
+      - link: dcerka_009.html
+        title: Kapitola čtvrtá
+      - link: dcerka_010.html
+        title: Kapitola pátá
+      - link: dcerka_011.html
+        title: Kapitola šestá
+      - link: dcerka_012.html
+        title: Kapitola sedmá
+      - link: dcerka_013.html
+        title: Kapitola osmá
+      - link: dcerka_014.html
+        title: Kapitola devátá
+      - link: dcerka_015.html
+        title: Kapitola desátá
+    isSection: true
 static:
   - style
   - scripts

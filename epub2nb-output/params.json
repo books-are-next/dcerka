@@ -32,180 +32,186 @@
     },
     "structure": [
       {
-        "filename": "dcerka_001.md",
-        "xhtml": "dcerka_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_002.md",
-        "xhtml": "dcerka_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_003.md",
-        "xhtml": "dcerka_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_004.md",
-        "xhtml": "dcerka_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_005.md",
-        "xhtml": "dcerka_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Slyš, dcerko, a viz",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_006.md",
-        "xhtml": "dcerka_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola první",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_007.md",
-        "xhtml": "dcerka_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola druhá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_008.md",
-        "xhtml": "dcerka_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola třetí",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_009.md",
-        "xhtml": "dcerka_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola čtvrtá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_010.md",
-        "xhtml": "dcerka_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola pátá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_011.md",
-        "xhtml": "dcerka_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola šestá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_012.md",
-        "xhtml": "dcerka_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola sedmá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_013.md",
-        "xhtml": "dcerka_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola osmá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_014.md",
-        "xhtml": "dcerka_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola devátá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_015.md",
-        "xhtml": "dcerka_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Kapitola desátá",
-        "subtitle": ""
-      },
-      {
-        "filename": "dcerka_016.md",
-        "xhtml": "dcerka_016.xhtml",
-        "id": 15,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "dcerka_001.md",
+            "xhtml": "dcerka_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_002.md",
+            "xhtml": "dcerka_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_003.md",
+            "xhtml": "dcerka_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_004.md",
+            "xhtml": "dcerka_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_005.md",
+            "xhtml": "dcerka_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Slyš, dcerko, a viz",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_006.md",
+            "xhtml": "dcerka_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola první",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_007.md",
+            "xhtml": "dcerka_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola druhá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_008.md",
+            "xhtml": "dcerka_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola třetí",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_009.md",
+            "xhtml": "dcerka_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola čtvrtá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_010.md",
+            "xhtml": "dcerka_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola pátá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_011.md",
+            "xhtml": "dcerka_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola šestá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_012.md",
+            "xhtml": "dcerka_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola sedmá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_013.md",
+            "xhtml": "dcerka_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola osmá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_014.md",
+            "xhtml": "dcerka_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola devátá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_015.md",
+            "xhtml": "dcerka_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola desátá",
+            "subtitle": ""
+          },
+          {
+            "filename": "dcerka_016.md",
+            "xhtml": "dcerka_016.xhtml",
+            "id": 15,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          }
+        ]
       }
     ]
   },
@@ -385,6 +391,6 @@
       "user": "books-are-next",
       "repo": "dcerka"
     },
-    "generatedAt": 1654948198630
+    "generatedAt": 1655156721553
   }
 }
