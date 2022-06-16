@@ -13,6 +13,7 @@ meta:
   subtitle: O poznání cesty pravé k spasení
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - dcerka_005.html
