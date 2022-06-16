@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "subtitle": "O poznání cesty pravé k spasení",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -391,6 +392,6 @@
       "user": "books-are-next",
       "repo": "dcerka"
     },
-    "generatedAt": 1655271172752
+    "generatedAt": 1655364111733
   }
 }
