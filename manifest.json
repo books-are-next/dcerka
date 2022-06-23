@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-1239e78",
-  "revision": "1239e78",
+  "identifier": "hus-dcerka-e883ba3",
+  "revision": "e883ba3",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:28:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364520285
+    "date": "Thu Jun 23 2022 09:58:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978322871
   },
   "documents": [
     {
