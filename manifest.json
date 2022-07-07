@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-7313293",
-  "revision": "7313293",
+  "identifier": "hus-dcerka-9464a21",
+  "revision": "9464a21",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:20:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182024097
+    "date": "Thu Jul 07 2022 09:58:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187899912
   },
   "documents": [
     {
