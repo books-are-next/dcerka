@@ -27,7 +27,7 @@ readingOrder:
   - dcerka_013.html
   - dcerka_014.html
   - dcerka_015.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

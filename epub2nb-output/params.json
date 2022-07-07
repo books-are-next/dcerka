@@ -62,7 +62,7 @@
             "filename": "dcerka_003.md",
             "xhtml": "dcerka_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -73,7 +73,7 @@
             "filename": "dcerka_004.md",
             "xhtml": "dcerka_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -205,7 +205,7 @@
             "filename": "dcerka_016.md",
             "xhtml": "dcerka_016.xhtml",
             "id": 15,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -392,6 +392,6 @@
       "user": "books-are-next",
       "repo": "dcerka"
     },
-    "generatedAt": 1655978185096
+    "generatedAt": 1657181755401
   }
 }
