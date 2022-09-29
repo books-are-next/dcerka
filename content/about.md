@@ -8,7 +8,7 @@ O poznání cesty pravé k spasení
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 3. elektronické vydání z 21. 7. 2022.
+V MKP 3. elektronické vydání z 29. 9. 2022.
 
 ***
 
