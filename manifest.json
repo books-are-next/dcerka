@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-b277d62",
-  "revision": "b277d62",
+  "identifier": "hus-dcerka-229cc91",
+  "revision": "229cc91",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:41:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414472728
+    "date": "Thu Sep 29 2022 21:21:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486460156
   },
   "documents": [
     {
@@ -67,8 +67,8 @@
       "title": "Kapitola první",
       "file": "dcerka_006.html",
       "words": 1045,
-      "chars": 5753,
-      "ideas": 6,
+      "chars": 5751,
+      "ideas": 7,
       "role": "chapter",
       "order": 2,
       "prev": "dcerka_005.html",
@@ -87,7 +87,7 @@
       "title": "Kapitola druhá",
       "file": "dcerka_007.html",
       "words": 784,
-      "chars": 4436,
+      "chars": 4438,
       "ideas": 6,
       "role": "chapter",
       "order": 3,
@@ -107,7 +107,7 @@
       "title": "Kapitola třetí",
       "file": "dcerka_008.html",
       "words": 920,
-      "chars": 5213,
+      "chars": 5214,
       "ideas": 4,
       "role": "chapter",
       "order": 4,
@@ -127,7 +127,7 @@
       "title": "Kapitola čtvrtá",
       "file": "dcerka_009.html",
       "words": 2428,
-      "chars": 13819,
+      "chars": 13822,
       "ideas": 22,
       "role": "chapter",
       "order": 5,
@@ -147,7 +147,7 @@
       "title": "Kapitola pátá",
       "file": "dcerka_010.html",
       "words": 710,
-      "chars": 3937,
+      "chars": 3938,
       "ideas": 7,
       "role": "chapter",
       "order": 6,
@@ -187,7 +187,7 @@
       "title": "Kapitola sedmá",
       "file": "dcerka_012.html",
       "words": 477,
-      "chars": 2673,
+      "chars": 2672,
       "ideas": 6,
       "role": "chapter",
       "order": 8,
@@ -227,7 +227,7 @@
       "title": "Kapitola devátá",
       "file": "dcerka_014.html",
       "words": 1199,
-      "chars": 6906,
+      "chars": 6903,
       "ideas": 6,
       "role": "chapter",
       "order": 10,
@@ -287,13 +287,13 @@
   "totals": {
     "all": {
       "words": 9968,
-      "chars": 56887,
-      "ideas": 94
+      "chars": 56888,
+      "ideas": 95
     },
     "chapters": {
       "words": 9839,
-      "chars": 56080,
-      "ideas": 74
+      "chars": 56081,
+      "ideas": 75
     }
   }
 }
