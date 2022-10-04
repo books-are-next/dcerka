@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hus-dcerka-fb4f883",
-  "revision": "fb4f883",
+  "identifier": "hus-dcerka-1e21af2",
+  "revision": "1e21af2",
   "readingOrder": [
     "promo.html",
     "dcerka_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:53:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639586068
+    "date": "Tue Oct 04 2022 16:39:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901549397
   },
   "documents": [
     {
@@ -266,9 +266,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 124,
+      "words": 121,
       "chars": 783,
-      "ideas": 16,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "dcerka_015.html",
@@ -286,9 +286,9 @@
   ],
   "totals": {
     "all": {
-      "words": 9968,
+      "words": 9965,
       "chars": 56888,
-      "ideas": 95
+      "ideas": 92
     },
     "chapters": {
       "words": 9839,
